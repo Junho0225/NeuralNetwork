@@ -1,0 +1,24 @@
+Prompt: share a good memory with your family.
+1)Response: ['share a good memory with your family. This can be an exciting challenge. With friends, family or even with friends in the bathroom, make the experience a memory too!\nI can’t wait to see how well we’re all doing again. But we aren', 
+2)'share a good memory with your family. The best gifts for the special someone, is the memory paper.\nThis memory and memory related gifts are just some ideas you can share with a loved one or have for yourself. So, continue reading this article to', 
+3)'share a good memory with your family. It will definitely enhance your future!\nMy husband, Kevin, and I all enjoyed our last camping day at our home. We are very proud of the team, their excellent equipment and the fun we had! We']
+
+Prompt: what kind of kindness have you encountered today?
+1)Response: ['what kind of kindness have you encountered today?”, asked Bunt. So, in a nutshell, the answer was, “A.I.,” a big name and big thing, a figure of speech very familiar to me.\nI don’t want',
+2) 'what kind of kindness have you encountered today? What kind have the things done to you changed?" This is the reason, says Dr. Katz. "It\'s one way to look back and find the lessons they have taught us" (cited in', 
+3)'what kind of kindness have you encountered today?</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>']
+
+Prompt: what can be done to achieve global peace with no war
+1) Response: ["what can be done to achieve global peace with no war between nations, in which case the right of states to use force in self-defence will be abrogated. Moreover, the concept of 'disarmament' is only one of many ways a", 
+2)'what can be done to achieve global peace with no war being the ultimate goal?\nThe first question to be asked is about the relationship between military forces and civilian populations in conflict situations and in peace. If we see military power as a powerful medium to influence',
+3) 'what can be done to achieve global peace with no war? And will we ever reach the conclusion that that has not happened?\nWe are reminded of the American strategy and the European Commission’s plan to create a permanent presence in Europe to maintain control over the']
+
+Prompt: what are benefits of exercise?
+1)Response: ['what are benefits of exercise? According to the UK National Health Service, an increase in physical activity can improve your overall health.\nExercise improves your mood – which is good for you and your body. It might feel bad, it might be', 
+2) 'what are benefits of exercise? Exercises reduce stress and boost energy. As long as you take some daily cardio, you will feel better, improve your immune system, and enjoy your life.</s></s></s></s></s></s></s></s></s></s>', 
+3) 'what are benefits of exercise? The benefits you are going for: • Reduce weight: A good workout is a great source of energy for the whole body. The most common and effective way to work out is by doing a power work like']
+
+Prompt: discuss some positive significance of attending college
+1)Response: ['discuss some positive significance of attending college. One recent study in our faculty population has shown that attending a college for more than one semester allows an individual to become self-sufficient and earn additional dollars to finance the expenses and lifestyle of college, compared to a study',
+2) 'discuss some positive significance of attending college. We found that college has benefits for all. When studying abroad, you have access to good, well-researched, research-based universities. The best universities are those that have a good foundation for research, as', 3) discuss some positive significance of attending college in such a field. First, she says:\nFor many students studying college courses in the US and Canada, being in college is a natural choice. If one is lucky, chances are that she or he also will']
+
