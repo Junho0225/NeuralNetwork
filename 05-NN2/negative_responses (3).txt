@@ -1,0 +1,27 @@
+Prompt: what factors contribute to negative prejudice
+1) Response: ['what factors contribute to negative prejudice and avoidant behavior among those with ADHD? What are the protective factors of avoidance and/or negative attitudes toward individuals with autistic spectrum disorder (ASD)? In this article, we investigate whether there is a relationship between', 
+2)"what factors contribute to negative prejudice in children? 
+The results highlight that children's perceptions of prejudice can be divided into two categories with reference to the sources of this prejudice such as the perceived nature of the negative person, the situation and the context in which the person", 
+3)'what factors contribute to negative prejudice? The aim of the present study was to examine potential factors regarding the attitudes towards people who speak other languages or cultures in Slovenia. The results of a series of analyses on the opinions expressed by people in the Slovak language']
+
+Prompt: what leads to individuals with political conflicts
+Response: 
+1)'what leads to individuals with political conflicts to reject the right of democracy.\nC. Political institutions and democratic participation\nA common concept in sociology, political sciences and economic studies is the concept of institutional capital -the socialization of political institutions through the political', 
+2) 'what leads to individuals with political conflicts and to the formation of social groups.\nII. THE CASE OF POLITICAL CONFLICT BETWEEN TWO LEVELS OF ACTION\nBefore going into a more detailed discussion of this question, it is useful to', 
+3) 'what leads to individuals with political conflicts, social problems as well as difficulties with the quality of life. Although various conflicts and divisions of power seem to have a negative effect on the health of the patients’ families, there seems to be no significant influence of']
+
+Prompt: what are some potential challenge of AI development
+1)Response: ['what are some potential challenge of AI development?\nAs the data is made publicly available, the technology developers can further use the available information to improve their design. It should be noted that these data in turn leads to the realization of data science problems and design', 
+2) 'what are some potential challenge of AI development, how the big data of patients could be collected, and how it would be combined with the bioinformatic methods and tools? They will be presented with case study based on our own experience as well as experiences', 
+3) 'what are some potential challenge of AI development?\nIn the absence of any pre-existing data on the performance of the AI system, we have made progress over recent years (e.g., [21, 22] ) by developing a few models to model']
+
+Prompt: what could be the consequence of cultural hate
+1) Response: ['what could be the consequence of cultural hate? And, of course, there might also be a moral implication.\nThese cultural biases, so clearly identified, could have long-lasting consequences. Perhaps most importantly but equally pertinent, cultural discrimination among Muslims cannot',
+2) 'what could be the consequence of cultural hate of Jews?” But the book says in some detail that if Jews hate Jews because they are Jews, it’s up to them to turn them out into Jewish objects and people like ourselves who are no good.\nAs', 
+3)'what could be the consequence of cultural hate? On the contrary, my research supports the validity of the cultural model and calls its generalization to intercultural studies. In this sense, cultural anthropologists could provide an important tool for understanding how cultural relations are maintained throughout']
+
+Prompt: Discuss the challenges of income inequality
+1) Response: ['Discuss the challenges of income inequality and inequality in healthcare and healthcare outcomes.\nWhat is an HFS? An HCF is defined as a healthcare system that produces and provides medical technologies. Historically, this had been the focus of most research in the', 
+2)'Discuss the challenges of income inequality, inequality in educational expenditure and inequality with regard to access to public healthcare and the extent to which policy actions have produced change.\nComment on the health status of the children in the community in rural areas and on how the', 
+3) 'Discuss the challenges of income inequality in the post-2015 world, and offer recommendations for interventions to improve the status of women and achieve better and more equitable gains for all.\nThis program aims to further enhance understanding of gender issues in policy and practice,']
+
