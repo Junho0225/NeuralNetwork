@@ -73,7 +73,7 @@ positive_responses = [generate_multiple_responses(prompt,num_return_sequences=3)
 
 negative_responses = [generate_multiple_responses(prompt,num_return_sequences=3) for prompt in negative_prompts]
 
-
+#Results of the generated responses
 
 with open("positive_responses.txt", "w") as file:
     for prompt, response in zip(positive_prompts, positive_responses):
